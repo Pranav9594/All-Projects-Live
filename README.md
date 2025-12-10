@@ -4,6 +4,6 @@
 
 ### Tech And Path --- https://tech-and-path.vercel.app/
 
-### Passkey Generater --- fragment-passkey.vercel.app
+### Passkey Generater --- https://fragment-passkey.vercel.app/
                     
 ### NIMO CHATBOT --- https://v0-nimo-chatbot-build.vercel.app/
