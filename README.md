@@ -12,4 +12,4 @@
 
 ### FRAGMENT Store --- https://fragment-store-nu.vercel.app/
 
-### Dean ---- dean-100.vercel.app/
+### Dean --- https://dean-100.vercel.app/
